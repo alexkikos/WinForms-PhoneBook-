@@ -1,0 +1,12 @@
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\bin\Debug\Phone_WinForms.exe.config
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\bin\Debug\Phone_WinForms.exe
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\bin\Debug\Phone_WinForms.pdb
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.csprojAssemblyReference.cache
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.Properties.Resources.resources
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.csproj.GenerateResource.cache
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.exe
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.pdb
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.AddPhone.resources
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.MainForm.resources
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.SearchForms.resources
+F:\Мои документы\c+++\ШАГ\C#WinFOrms\Phone_WinForms\Phone_WinForms\obj\Debug\Phone_WinForms.SortForm.resources
